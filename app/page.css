@@ -1,0 +1,48 @@
+.mk-wrapper {
+  position: relative;
+  min-height: 100%;
+}
+
+.mk-container {
+  display: block;
+}
+
+.mk-wl {
+  background: #00000033;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  min-height: empty;
+}
+
+.mk-bg {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: url("/marketplace/bg-marketplace.png");
+}
+
+.mk-content-wrapper {
+  position: relative;
+}
+
+.header-bg {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: url("/marketplace/bg-header.jpeg");
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(255, 204, 33, 1);
+  box-shadow: 0 0 1px rgba(119, 119, 119, 1);
+}

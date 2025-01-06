@@ -1,0 +1,31 @@
+.card-wrapper {
+  background: rgba(58, 56, 65, 0.6);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.label-wapper {
+  background: rgba(49, 59, 69, 0.5);
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 500;
+  border-radius: 4px;
+}
+
+.nft-name {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.nft-price {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 0.15s;
+}

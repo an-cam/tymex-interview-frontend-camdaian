@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Home",
+        "path": "home"
+    },
+    {
+        "label": "About Us",
+        "path": "about"
+    },
+    {
+        "label": "Our Teams",
+        "path": "ourteams"
+    },
+    {
+        "label": "Marketplace",
+        "path": "marketplace"
+    },
+    {
+        "label": "Roadmap",
+        "path": "roadmap"
+    },
+    {
+        "label": "Whitepaper",
+        "path": "whitepaper"
+    }
+]

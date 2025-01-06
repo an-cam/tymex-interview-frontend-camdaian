@@ -1,0 +1,16 @@
+.btn-cat {
+  background: linear-gradient(rgba(218, 69, 143, 0.4), rgba(218, 52, 221, 0.4));
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.btn-cat:hover {
+  transform: scale(1.1);
+}
+
+.cat-wrapper .active {
+  background: linear-gradient(rgba(218, 69, 143, 1), rgba(218, 52, 221, 1));
+  /* background-clip: text; */
+}

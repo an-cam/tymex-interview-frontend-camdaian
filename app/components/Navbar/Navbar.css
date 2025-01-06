@@ -1,0 +1,28 @@
+.navbar-wrapper {
+  background: rgba(23, 22, 26, 0.7);
+}
+
+.label-navbar {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  /* margin-left: 32px; */
+}
+
+.label-navbar:hover {
+  color: rgba(218, 69, 143, 1);
+}
+
+.navbar-wrapper .active {
+    background: linear-gradient(rgba(218, 69, 143, 1),rgba(218, 52, 221, 1));
+    background-clip: text;
+    color: transparent;
+}
+
+.navbar-wrapper .undeline {
+    background: linear-gradient(rgba(218, 69, 143, 1),rgba(218, 52, 221, 1));
+    width: 16px;
+    height: 2px;
+    margin-left: 13px;
+}

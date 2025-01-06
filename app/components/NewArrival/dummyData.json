@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "image": "/nft/nft1.png",
+        "title": "Assassin" 
+    },
+
+    {
+        "id": "2",
+        "image": "/nft/nft2.png",
+        "title": "Neon Guy" 
+    },
+    {
+        "id": "3",
+        "image": "/nft/nft3.png",
+        "title": "Mafia England" 
+    },
+    {
+        "id": "4",
+        "image": "/nft/nft4.png",
+        "title": "Bassketball Girl" 
+    }
+]
